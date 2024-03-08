@@ -1,0 +1,41 @@
+{
+  "name": "onedionys-social-sharing-utilities",
+  "version": "1.0.0",
+  "description": "One Dionys (Social Sharing Utilities) - Functions to make it easy to share app content to social media platforms.",
+  "main": "src/socialSharingUtils.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onedionys/onedionys-social-sharing-utilities.git"
+  },
+  "keywords": [
+    "onedionys",
+    "tea",
+    "package-manager",
+    "social-sharing-utilities"
+  ],
+  "author": "One Dionys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onedionys/onedionys-social-sharing-utilities/issues"
+  },
+  "homepage": "https://github.com/onedionys/onedionys-social-sharing-utilities#readme",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1",
+    "lodash": "^4.17.21",
+    "onedionys-analytics-integration": "^1.0.0",
+    "onedionys-dom-traversal-utilities": "^1.0.0",
+    "onedionys-drag-drop-components": "^1.0.0",
+    "onedionys-modal-dialog-component": "^1.0.0",
+    "onedionys-progress-bar-component": "^1.0.0"
+  }
+}
