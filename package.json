@@ -1,6 +1,6 @@
 {
   "name": "onedionys-social-sharing-utilities",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Social Sharing Utilities) - Functions to make it easy to share app content to social media platforms.",
   "main": "src/socialSharingUtils.js",
   "directories": {
